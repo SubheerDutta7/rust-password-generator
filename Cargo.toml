@@ -1,0 +1,13 @@
+[package]
+name = "rust-password-generator"
+version = "1.0.0"
+edition = "2021"
+authors = ["Subheer Dutta"]
+description = "A fast and secure CLI password generator built in Rust with configurable character sets and strong randomness."
+license = "MIT"
+repository = "https://github.com/SubheerDutta7/rust-password-generator"
+readme = "README.md"
+keywords = ["password", "generator", "cli", "security", "rust"]
+categories = ["command-line-utilities", "cryptography"]
+
+[dependencies]
